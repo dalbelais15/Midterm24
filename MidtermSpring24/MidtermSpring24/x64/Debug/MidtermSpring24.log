@@ -1,0 +1,38 @@
+﻿  MidtermSpring24.cpp
+C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\Manages.h(4,24): warning C4584: 'Manages': base-class 'EmployeeInfo' is already a base-class of 'Department'
+  (compiling source file 'MidtermSpring24.cpp')
+  C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\EmployeeInfo.h(6,7):
+  see declaration of 'EmployeeInfo'
+  C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\Department.h(3,7):
+  see declaration of 'Department'
+  
+C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\MidtermSpring24.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\Project.h(5,24): warning C4584: 'Project': base-class 'EmployeeInfo' is already a base-class of 'Department'
+  (compiling source file 'MidtermSpring24.cpp')
+  C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\EmployeeInfo.h(6,7):
+  see declaration of 'EmployeeInfo'
+  C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\Department.h(3,7):
+  see declaration of 'Department'
+  
+C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\Project.h(5,24): warning C4584: 'Project': base-class 'EmployeeInfo' is already a base-class of 'Manages'
+  (compiling source file 'MidtermSpring24.cpp')
+  C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\EmployeeInfo.h(6,7):
+  see declaration of 'EmployeeInfo'
+  C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\Manages.h(4,7):
+  see declaration of 'Manages'
+  
+C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\Dependant.h(4,26): warning C4584: 'Dependant': base-class 'EmployeeInfo' is already a base-class of 'Department'
+  (compiling source file 'MidtermSpring24.cpp')
+  C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\EmployeeInfo.h(6,7):
+  see declaration of 'EmployeeInfo'
+  C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\Department.h(3,7):
+  see declaration of 'Department'
+  
+C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\EmpWorkDept.h(4,28): warning C4584: 'EmpWorkDept': base-class 'EmployeeInfo' is already a base-class of 'Department'
+  (compiling source file 'MidtermSpring24.cpp')
+  C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\EmployeeInfo.h(6,7):
+  see declaration of 'EmployeeInfo'
+  C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\Department.h(3,7):
+  see declaration of 'Department'
+  
+  MidtermSpring24.vcxproj -> C:\Users\david\CS2MID\MidtermSpring24\MidtermSpring24\x64\Debug\MidtermSpring24.exe
